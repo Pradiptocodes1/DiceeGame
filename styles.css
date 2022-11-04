@@ -1,0 +1,27 @@
+body{
+    background-color: #D2DAFF;
+}
+h3{
+    font-family: 'Pacifico';
+    margin: 5px;
+    text-align:center;
+    font-size: 5rem;
+    color: #790252;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+p{
+    color: #4C0033;
+    font-size: 2rem;
+    font-family: 'Montserrat';
+}
+img{
+    width: 80%;
+}
